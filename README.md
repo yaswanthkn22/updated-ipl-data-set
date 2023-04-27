@@ -46,4 +46,8 @@ Plot a bar chart.
    ```
  * you can run the corresponding programs to check the results
   
-  
+> ## Credits 
+
+* It is done by Yaswanth K N
+* special mention to the Data Contributors
+
